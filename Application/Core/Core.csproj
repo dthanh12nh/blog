@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AssemblyName>TH.Blog.Core</AssemblyName>
+    <RootNamespace>TH.Blog.Core</RootNamespace>
+  </PropertyGroup>
+
+</Project>
