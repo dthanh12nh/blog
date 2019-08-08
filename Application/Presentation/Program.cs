@@ -14,6 +14,9 @@ namespace TH.Blog.Apis
     {
         public static void Main(string[] args)
         {
+            //Test dthanh14nh
+            var aaa = 0;
+
             CreateWebHostBuilder(args).Build().Run();
         }
 
