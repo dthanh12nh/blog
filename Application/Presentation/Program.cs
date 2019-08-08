@@ -17,6 +17,8 @@ namespace TH.Blog.Apis
             //Test dthanh14nh
             var aaa = 0;
 
+            //Test dthanh14nh 2
+
             CreateWebHostBuilder(args).Build().Run();
         }
 
