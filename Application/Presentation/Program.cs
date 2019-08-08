@@ -21,4 +21,9 @@ namespace TH.Blog.Apis
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>();
     }
+
+    public class Test
+    {
+
+    }
 }
